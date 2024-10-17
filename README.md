@@ -1,5 +1,5 @@
 # Descrição Técnica
-Este arquivo contém a descrição técnica do código main.tf e as alterações que realizadas para melhorar a segurança e automatizar a instalação do Nginx.
+Este arquivo contém a descrição técnica do código main.tf e as alterações realizadas para melhorar a segurança e automatizar a instalação do Nginx.
 
 ## Análise Técnica
 
